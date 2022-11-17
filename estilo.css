@@ -308,5 +308,16 @@
      .checkbox-itens label{
         font-size:17px;
      }
+
+     /* Footer */
+
+     footer .linha1{
+        flex-direction: column;
+     }
+
+     fooetr .endereco{
+        width:95%;
+        margin-bottom: 20px;
+     }
 }
 
